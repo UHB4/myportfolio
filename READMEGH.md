@@ -3,7 +3,7 @@
 
 ## 1. 팀원 소개
   * [엄현빈](https://github.com/UHB4)
-  * [이재우]
+  * [이재우](https://github.com/unbreakablesh)
   * [김여진](https://github.com/yeojin10044)
   * [노가현](https://github.com/dashboard)
 
@@ -13,8 +13,13 @@
  #### 2.프로젝트 설명
     브랜드 홈페이지 / 회사소개 페이지 / 쇼핑몰 페이지 / 로그인 페이지로 이루어진 남성 스포츠 의류 브랜드 웹페이지
  #### 3.개발 기간
+    2024-01-12 ~ 2024-01-18 (5일간)
  #### 4.사용 기술 스택
- 
+  * HTML
+  * CSS
+  * JavaScript
+  * jQuery
+
 ## 3. 담당 업무
   #### 엄현빈 
     쇼핑몰 페이지 제작
