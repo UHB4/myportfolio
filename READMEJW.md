@@ -13,8 +13,9 @@
 ### 사용 skill set
 * HTML
 * CSS
-* JavaScript
-* JQuery
+* JQuery  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)
+
 ### 개발환경
 * 인텔리제이
 * vim
