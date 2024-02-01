@@ -14,10 +14,10 @@
 #### 2-3.개발 기간
    2024-01-12 ~ 2024-01-18 (5일간)
 #### 2-4.사용 기술 스택
-  * HTML
-  * CSS
-  * JavaScript
-  * jQuery
+  * HTML ![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
+  * CSS ![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white)
+  * JavaScript ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)
+  * jQuery ![JQuery Badge](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white)
 
 ## 3. 담당 업무
 #### 엄현빈 
@@ -33,7 +33,7 @@
 ## 4. 주요 기능
 #### 브랜드 홈페이지 
    __슬라이드 갤러리__
-   ![slide_gallery.gif](/imageFile/Animation1.gif)
+   ![slide_gallery.gif](/imageFile/Animation1.gif)  
    jQuery를 활용한 폰트 움직임
 #### 회사소개 페이지
    jQuery를 활용한 폰트와 차트 animate 효과
