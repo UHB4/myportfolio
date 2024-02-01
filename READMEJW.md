@@ -1,2 +1,4 @@
-# dfdaffsjdfjsefjs
-# erekrjerkedf,df,med,f
+# 팀원소개
+===
+이재우 : 
+# 프로젝트 개요
