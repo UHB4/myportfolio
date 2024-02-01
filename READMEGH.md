@@ -4,7 +4,7 @@
 ## 1. 팀원 소개
   * [엄현빈]
   * [이재우]
-  * [김여진]
+  * [김여진](https://github.com/yeojin10044)
   * [노가현](https://github.com/dashboard)
 
 ## 2. 프로젝트 개요
