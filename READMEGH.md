@@ -2,7 +2,7 @@
 
 
 ## 1. 팀원 소개
-  * [엄현빈]
+  * [엄현빈](https://github.com/UHB4)
   * [이재우]
   * [김여진](https://github.com/yeojin10044)
   * [노가현](https://github.com/dashboard)
